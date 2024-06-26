@@ -1,0 +1,6 @@
+@SalaryApi_HostAddress = http://localhost:5029
+
+GET {{SalaryApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
